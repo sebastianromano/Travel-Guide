@@ -2,5 +2,5 @@
 {"type":"Feature","geometry":{"type":"Point","coordinates":[10.597087,57.724524]},"properties":{"name":"Skagens Museum"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[10.58048,57.715338]},"properties":{"name":"Maskinrummet"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[10.408389,57.64862]},"properties":{"name":"Råbjerg Mile"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[10.448086,57.626214]},"properties":{"name":"Bench"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[10.448086,57.626214]},"properties":{"name":"Bench"}}
 ]}
