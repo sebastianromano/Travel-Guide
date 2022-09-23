@@ -71,3 +71,6 @@ If you have a location that you think should be added to this repository (*and t
 ---
 ## Resources:
 - [GitHub: Working with non-code files](https://docs.github.com/en/repositories/working-with-files/using-files/working-with-non-code-files#mapping-geojson-files-on-github)
+- [KMZ to GeoJSON](https://products.aspose.app/gis/conversion/kmz-to-geojson)
+- [GeoJSONLint](https://geojsonlint.com/)
+- [GeoJSON Visualizer](https://geojson.io/)
