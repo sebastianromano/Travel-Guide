@@ -18,7 +18,8 @@ If you have a location that you think should be added to this repository (*and t
 
 |Added | Location | Description |
 | --- | --- | --- |
-|x| [Copenhagen, Denmark](link) | A beautiful city in Denmark. |
+|x| [Northern Jutland, Denmark](https://github.com/sebastianromano/Travel-Guide/blob/main/Denmark.geojson) | [Where the North Sea meets the Kattegat Sea](https://en.wikipedia.org/wiki/Skagerrak) |
+|| [Copenhagen, Denmark](link) | A beautiful city in Denmark. |
 || [Berlin, Germany](link) | A beautiful city in Germany. |
 || [Norway](link) | A beautiful country in Europe. |
 || [Budapest, Hungary](link) | A beautiful city in Hungary. |
